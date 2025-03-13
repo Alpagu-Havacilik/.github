@@ -19,7 +19,7 @@ Our flagship project, the **Savaşan İHA UAV**, is designed for tactical operat
 - **Competition:** TEKNOFEST 2025 Savaşan İHA Competition 🏆
 
 ### Autonomous Helicopter 🚁
-![image](https://github.com/user-attachments/assets/f35daf29-428e-44df-8817-363583747395)
+![alpagu_logo_helikopter](https://github.com/user-attachments/assets/6114e4cd-29a9-4aaf-b6c6-8d2954e0588a)
 
 In parallel, we are developing an **Autonomous Helicopter** aimed at revolutionizing aerial mobility:
 - **Purpose:** Create a fully autonomous helicopter capable of efficient flight and robust performance.
