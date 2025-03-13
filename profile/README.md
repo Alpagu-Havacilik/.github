@@ -7,6 +7,7 @@ Welcome to the official GitHub organization of **Alpagu Havacılık**. We are a 
 Alpagu Havacılık is committed to advancing UAV technology through research, design, and hands-on engineering. Our projects are tailored for high-performance in competitive environments and real-world applications. We proudly participate in major competitions, including the TEKNOFEST 2025 events.
 
 ## Our Projects ✈️
+![Logo 1](https://github.com/user-attachments/assets/934c66b0-2792-47d3-affb-eee9c23e4ef6)
 
 ### Savaşan İHA UAV 🛩️
 Our flagship project, the **Savaşan İHA UAV**, is designed for tactical operations:
